@@ -4,3 +4,5 @@ instance/
 *.db
 .env
 venv/
+backend/logs/
+*.log
